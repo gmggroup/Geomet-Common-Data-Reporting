@@ -27,3 +27,7 @@ Some aspects of the scope outlined below are based on the CoalLog Standard that 
 
 | In Scope | Out of Scope |
 | Development of Guiding/Design Principles with a standardised format/terminology for the most common terms that can be applied universally.  | Geotechnical and structural data  |
+
+| Header 1 | Header 2 |
+| --- | --- |
+| Cell 1 | Cell 2 |
