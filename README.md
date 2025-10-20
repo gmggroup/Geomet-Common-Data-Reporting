@@ -25,9 +25,9 @@ The project will only be successful if it is supported and adopted by both metal
 
 Some aspects of the scope outlined below are based on the CoalLog Standard that was developed by the AusIMM.  
 
-| In Scope | Out of Scope |
-| Development of Guiding/Design Principles with a standardised format/terminology for the most common terms that can be applied universally.  | Geotechnical and structural data  |
+|  |  |
+|  | Geotechnical and structural data  |
 
-| Header 1 | Header 2 |
+| In Scope | Out of Scope |
 | --- | --- |
-| Cell 1 | Cell 2 |
+| Development of Guiding/Design Principles with a standardised format/terminology for the most common terms that can be applied universally.  | Cell 2 |
